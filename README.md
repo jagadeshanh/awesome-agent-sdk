@@ -36,6 +36,42 @@ Comprehensive framework for building multi-agent systems and orchestrations.
 - **Features**: Agent coordination, complex workflows, multi-agent patterns
 - **Best for**: Complex agent orchestrations and multi-agent systems
 
+### [OpenAI SDK](https://github.com/openai/node-sdk)
+Official SDK from OpenAI for GPT models with function calling and agent capabilities.
+- **Language**: JavaScript/TypeScript, Python
+- **Features**: Function calling, streaming, vision API, assistants
+- **Best for**: OpenAI GPT models (GPT-4, GPT-4 Vision, o1)
+
+### [Google Gemini SDK](https://github.com/google-generativeai/google-generativeai-python)
+Official Python SDK from Google for building agents with Gemini models.
+- **Language**: Python, JavaScript
+- **Features**: Multi-modal support, function calling, streaming
+- **Best for**: Google Gemini and PaLM models with vision capabilities
+
+### [DeepSeek SDK](https://github.com/deepseek-ai/DeepSeek-API)
+SDK for accessing DeepSeek's advanced reasoning and language models.
+- **Language**: Python, JavaScript
+- **Features**: Function calling, streaming, reasoning models
+- **Best for**: DeepSeek's cost-effective and high-performance models
+
+### [Cohere SDK](https://github.com/cohere-ai/cohere-python)
+Official Cohere SDK for building enterprise agents with Command models.
+- **Language**: Python, JavaScript
+- **Features**: Retrieval-augmented generation (RAG), multi-language support, agent toolkit
+- **Best for**: Enterprise agents and production deployments
+
+### [Mistral SDK](https://github.com/mistralai/client-python)
+Official Python SDK from Mistral AI for open and closed source models.
+- **Language**: Python, JavaScript
+- **Features**: Function calling, chat completion, streaming
+- **Best for**: Mistral's open models and enterprise offerings
+
+### [Meta Llama SDK](https://github.com/facebookresearch/llama)
+Framework for working with Meta's Llama models for agent development.
+- **Language**: Python
+- **Features**: Fine-tuning, inference optimization, safety mechanisms
+- **Best for**: Open-source Llama models for custom agents
+
 ## Language-Specific SDKs
 
 - [Python Agent SDKs](#python)
